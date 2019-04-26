@@ -1,0 +1,14 @@
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/bin/Debug/netcoreapp2.1/RestHaber.deps.json
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/bin/Debug/netcoreapp2.1/RestHaber.runtimeconfig.json
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/bin/Debug/netcoreapp2.1/RestHaber.runtimeconfig.dev.json
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/bin/Debug/netcoreapp2.1/RestHaber.dll
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/bin/Debug/netcoreapp2.1/RestHaber.pdb
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.csprojAssemblyReference.cache
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.csproj.CoreCompileInputs.cache
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.RazorAssemblyInfo.cache
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.RazorAssemblyInfo.cs
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.AssemblyInfoInputs.cache
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.AssemblyInfo.cs
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.RazorTargetAssemblyInfo.cache
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.dll
+/Users/omerustunay/Desktop/deneme/RestHaber/RestHaber/obj/Debug/netcoreapp2.1/RestHaber.pdb
